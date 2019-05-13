@@ -1,3 +1,3 @@
 # uploadTest
 npm上传测试
-## 下载
+## clone地址 https://github.com/webForNode/uploadTest.git
