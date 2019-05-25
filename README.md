@@ -69,4 +69,4 @@ A backtick-delimited string in a code span: `` `foo` ``
 
 `` test setes t ``
 
-![Alt text](/path/to/img.jpg)
+![Alt text](/bg.jpg "Optional title")
